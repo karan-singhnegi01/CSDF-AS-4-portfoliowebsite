@@ -3,7 +3,7 @@
 This project is a simple **HTML and CSS portfolio website** created as part of Assignment 4 for the course *Computer Science Fundamentals & Career Pathways*.  
 The main purpose of this project is to demonstrate my ability to:
 
-- Build a basic functional website
+- Build a basic functional website using Html and CSS.
 - Use Visual Studio Code for development
 - Use Git for version control
 - Host and manage a project on GitHub

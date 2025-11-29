@@ -85,18 +85,7 @@ Full documentation is inside the `/docs` folder:
 
 ---
 
-## 🔹 Assignment Requirements Status
 
-| Requirement | Status |
-|------------|--------|
-| Build mini project | ✔ Completed |
-| Use VS Code | ✔ Done |
-| Use Git commands | ✔ Commits added |
-| Host on GitHub | ✔ Live on GitHub |
-| Add README.md | ✔ Done |
-| Add `.gitignore` | ✔ Done |
-| Create docs folder | ✔ Done |
-| Add screenshots | ✔ Added |
 
 ---
 

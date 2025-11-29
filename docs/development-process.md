@@ -17,6 +17,7 @@ The development of the portfolio website followed these steps:
 - Added fonts, colors, and formatting.
 - Improved spacing and alignment for a clean layout.
 - Ensured the design looks neat on different screen sizes.
+- implemented animations using keyframes.
 
 ### 4. Testing the Website
 - Opened `index3-1.html` in the browser to check layout.

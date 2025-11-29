@@ -9,7 +9,7 @@ The development of the portfolio website followed these steps:
 
 ### 2. Building the HTML Structure
 - Added the basic HTML boilerplate.
-- Created sections for Home, About/Skills, Projects, and Contact.
+- Created sections for Home, About, Skills, Projects, and Contact.
 - Inserted my profile photo and project images (Calorie Tracker screenshots).
 
 ### 3. Designing with CSS

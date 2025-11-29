@@ -39,7 +39,7 @@ CSDF-AS-4-portfoliowebsite/
 ## 🔹 Screenshots of the Portfolio Website
 
 ### 🟦 Home Page
-![Homepage Screenshot](./homepage-sss.png.png)
+![Homepage Screenshot](./homepage-ss.png.png)
 
 ### 🟪 Main Section (About / Skills / Projects)
 ![Section Screenshot](./portfolio-section.png.png)

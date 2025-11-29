@@ -14,8 +14,8 @@ The portfolio website contains sections such as:
 - **Home Section** – Displays my profile image and introduction  
 - **About / Skills Section** – Information about my abilities and interests  
 - **Projects Section** – Showcases one of my projects (Calorie Tracker)  
-- **Contact Section** – Ways to reach me  
-
+- **Contact Section** – Ways to reach me  ( currently not recive because no backend )
+  
 This project focuses on clean structure, simple layout, and correct use of HTML/CSS fundamentals.  
 It is fully static and runs directly in any browser without backend or database.
 
